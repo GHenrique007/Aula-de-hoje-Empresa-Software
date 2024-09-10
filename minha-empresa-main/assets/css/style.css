@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: black;
+    color: white;
+    
+
+}
+ .cabecalho ul {
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+
+
+
+ }
+.cabecalho ul li a {
+    display: flex;
+    color: white;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+
+    padding: 30px 60px;
+    
+}
+ 
+
+.paidoslados {
+    display: flex;
+   
+}
+
+.lado-esquerdo {
+    padding: 30px;
+    
+
+
+
+}
+
+
+
+
+
+
+   
+    
+
